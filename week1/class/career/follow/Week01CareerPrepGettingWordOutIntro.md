@@ -1,4 +1,4 @@
-![PXL_20240419_153018835 MP](https://github.com/user-attachments/assets/4eb1ed70-979a-413b-8f12-a7c4e135314d)Name:
+Name: Joseph Gregory
 Background: My name is joseph Gregory, and i come from Sterling, Virgina, a suburb about a half an hour outside of Washington DC.
             I served my mission in rio de janeiro brazil, and am currently located in eagle mountain Utah. I Chose computer science
             as my major because it was the class i enjoyed the most in high school. Inside of computer science i enjoy web development,
